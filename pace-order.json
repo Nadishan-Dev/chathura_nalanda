@@ -2,22 +2,8 @@
     "services": [
       {
         "id": 1,
-        "title": "CV Design",
-        "shortDescription": "Professional CV design services tailored for students and professionals",
-        "fullDescription": "Our CV design service helps you stand out to potential employers. We create clean, modern, and ATS-friendly CVs that highlight your skills and experience effectively. Each CV is customized to match your career goals and industry standards.",
-        "price": "LKR 3999",
-        "image": "https://raw.githubusercontent.com/Nadishan-Dev/neuro_images/refs/heads/main/team.jpeg",
-        "features": [
-          "ATS-friendly format",
-          "Modern design templates",
-          "Professional layout",
-          "Keyword optimization",
-          "2 revisions included"
-        ]
-      },
-      {
-        "id": 2,
-        "title": "Assignment Help",
+        "key": "assignments_helper",
+        "title": "Assignment Helper",
         "shortDescription": "Expert assistance with academic assignments and research papers",
         "fullDescription": "Get professional help with your academic assignments from our team of experienced tutors and subject matter experts. We provide guidance, resources, and support to help you achieve better grades and understand complex topics.",
         "price": "LKR 1999/hour",
@@ -31,7 +17,40 @@
         ]
       },
       {
+        "id": 2,
+        "key": "professional_cv_design",
+        "title": "Professional CV Design",
+        "shortDescription": "Professional CV design services tailored for students and professionals",
+        "fullDescription": "Our CV design service helps you stand out to potential employers. We create clean, modern, and ATS-friendly CVs that highlight your skills and experience effectively. Each CV is customized to match your career goals and industry standards.",
+        "price": "LKR 3999",
+        "image": "https://raw.githubusercontent.com/Nadishan-Dev/neuro_images/refs/heads/main/team.jpeg",
+        "features": [
+          "ATS-friendly format",
+          "Modern design templates",
+          "Professional layout",
+          "Keyword optimization",
+          "2 revisions included"
+        ]
+      },
+      {
         "id": 3,
+        "key": "fb_cover_page_create",
+        "title": "FB Cover Page Create",
+        "shortDescription": "Captivating social media designs that enhance your brand's digital presence.",
+        "fullDescription": "Get professional help with your academic assignments from our team of experienced tutors and subject matter experts. We provide guidance, resources, and support to help you achieve better grades and understand complex topics.",
+        "price": "LKR 1999/hour",
+        "image": "https://raw.githubusercontent.com/Nadishan-Dev/neuro_images/refs/heads/main/team.jpeg",
+        "features": [
+          "Subject expert consultation",
+          "Research assistance",
+          "Proofreading and editing",
+          "Formatting and citation help",
+          "Plagiarism checking"
+        ]
+      },
+      {
+        "id": 4,
+        "key": "a/l_student_support",
         "title": "Student Mentoring",
         "shortDescription": "One-on-one mentoring sessions for academic and career guidance",
         "fullDescription": "Our mentoring program connects you with experienced professionals who can guide you through your academic journey and early career decisions. Regular sessions help build your confidence, improve your skills, and plan your academic and professional path.",
