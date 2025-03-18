@@ -1,8 +1,7 @@
- {
-    "Articale": [
+[
     {
         "id": 1,
-        "key": "articale_01",
+        "key": "article_01",
         "title": "4 Digital Marketing Strategies To Get More Inbound Calls.",
         "excerpt": "Learn how students can leverage social media platforms for academic and professional growth.",
         "category": "Social Media",
@@ -12,7 +11,7 @@
     },
     {
         "id": 2,
-        "key": "articale_02",
+        "key": "article_02",
         "title": "Nokia launches new logo to reflect change in direction",
         "excerpt": "Essential tips for designing a CV that captures attention and showcases your true potential.",
         "category": "Career Development",
@@ -22,8 +21,8 @@
     },
     {
         "id": 3,
-        "key": "articale_03",
-        "title": "How Marketing Important in Your Business",
+        "key": "article_03",
+        "title": "How Marketing Is Important in Your Business",
         "excerpt": "Research-backed methods to improve your study efficiency and academic performance.",
         "category": "Academic",
         "date": "February 20, 2025",
@@ -32,7 +31,7 @@
     },
     {
         "id": 4,
-        "key": "articale_04",
+        "key": "article_04",
         "title": "What Is Brand Image? – Importance & Examples.",
         "excerpt": "Step-by-step guide to establishing a compelling personal brand in the digital space.",
         "category": "Branding",
@@ -42,13 +41,12 @@
     },
     {
         "id": 5,
-        "key": "articale_05",
-        "title": "Email Marketing and Hotel Industry",
+        "key": "article_05",
+        "title": "Email Marketing and the Hotel Industry",
         "excerpt": "Key strategies to make your content marketing efforts more effective in the current digital landscape.",
         "category": "Content Marketing",
         "date": "February 8, 2025",
         "image": "Article_5",
         "readTime": "6 min read"
     }
-  ]
- }
+]
