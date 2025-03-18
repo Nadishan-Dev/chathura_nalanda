@@ -46,22 +46,10 @@
         },
         "media": {
           "featuredImage": {
-            "url": "https://example.com/images/json-structure.jpg",
+            "url": "https://raw.githubusercontent.com/Nadishan-Dev/chathura_nalanda/refs/heads/main/images/Article-1.jpg",
             "alt": "JSON structure diagram",
             "caption": "Visual representation of JSON structure"
-          },
-          "gallery": [
-            {
-              "url": "https://example.com/images/json-example1.jpg",
-              "alt": "JSON example code",
-              "caption": "Example of a complex JSON structure"
-            },
-            {
-              "url": "https://example.com/images/json-usage.jpg",
-              "alt": "JSON usage diagram",
-              "caption": "Common uses of JSON in web applications"
-            }
-          ]
+          }
         }
       },
       {
@@ -106,7 +94,7 @@
         },
         "media": {
           "featuredImage": {
-            "url": "https://example.com/images/restful-api.jpg",
+            "url": "https://raw.githubusercontent.com/Nadishan-Dev/chathura_nalanda/refs/heads/main/images/Article-2.jpg",
             "alt": "RESTful API architecture",
             "caption": "Overview of RESTful API architecture"
           }
@@ -158,7 +146,7 @@
         },
         "media": {
           "featuredImage": {
-            "url": "https://example.com/images/graphql-vs-rest.jpg",
+            "url": "https://raw.githubusercontent.com/Nadishan-Dev/chathura_nalanda/refs/heads/main/images/Article-3.jpg",
             "alt": "GraphQL vs REST comparison",
             "caption": "GraphQL vs REST: Choosing the right API architecture"
           }
