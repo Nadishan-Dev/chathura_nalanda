@@ -44,6 +44,7 @@
         "key": "article_02",
         "title": "Nokia launches new logo to reflect change in direction",
         "description": "",
+        "image": "https://raw.githubusercontent.com/Nadishan-Dev/chathura_nalanda/refs/heads/main/images/Article-2.jpg",
         "author": {
           "id": "auth001",
           "name": "Chathura Nalanda",
@@ -78,6 +79,7 @@
         "key": "article_03",
         "title": "How Marketing Important in Your Business",
         "description": "",
+        "image": "https://raw.githubusercontent.com/Nadishan-Dev/chathura_nalanda/refs/heads/main/images/Article-3.jpg",
         "author": {
           "id": "auth001",
           "name": "Chathura Nalanda",
@@ -116,6 +118,7 @@
         "key": "article_04",
         "title": "What Is Brand Image? – Importance & Examples.",
         "description": "",
+        "image": "https://raw.githubusercontent.com/Nadishan-Dev/chathura_nalanda/refs/heads/main/images/Article-4.png",
         "author": {
           "id": "auth001",
           "name": "Chathura Nalanda",
@@ -154,6 +157,7 @@
         "key": "article_05",
         "title": "Email Marketing and Hotel Industry.",
         "description": "",
+        "image": "https://raw.githubusercontent.com/Nadishan-Dev/chathura_nalanda/refs/heads/main/images/Article-5.png",
         "author": {
           "id": "auth001",
           "name": "Chathura Nalanda",
