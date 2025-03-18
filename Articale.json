@@ -6,6 +6,7 @@
         "title": "Understanding JSON Data Structures",
         "subtitle": "A Comprehensive Guide for Developers",
         "slug": "understanding-json-data-structures",
+        "image": "https://raw.githubusercontent.com/Nadishan-Dev/chathura_nalanda/refs/heads/main/images/Article-1.jpg",
         "author": {
           "id": "auth001",
           "name": "Jane Smith",
