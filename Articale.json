@@ -3,155 +3,189 @@
       {
         "id": "1",
         "key": "article_01",
-        "title": "Understanding JSON Data Structures",
-        "subtitle": "A Comprehensive Guide for Developers",
-        "slug": "understanding-json-data-structures",
+        "title": "4 Digital Marketing Strategies To Get More Inbound Calls.",
+        "description": "",
         "image": "https://raw.githubusercontent.com/Nadishan-Dev/chathura_nalanda/refs/heads/main/images/Article-1.jpg",
         "author": {
           "id": "auth001",
-          "name": "Jane Smith",
-          "email": "jane.smith@example.com",
-          "bio": "Senior Developer with 10+ years experience in web technologies"
+          "name": "Chathura Nalanda",
+          "email": "",
+          "bio": ""
         },
-        "publishedDate": "2025-03-15T14:30:00Z",
-        "updatedDate": "2025-03-18T09:15:00Z",
+        "publishedDate": "7th Mar 2023",
         "metadata": {
           "readTime": 8,
           "wordCount": 1850
         },
         "content": {
-          "summary": "This article explores the fundamentals of JSON data structures and their applications in modern web development.",
-          "body": "JSON (JavaScript Object Notation) has become the standard data interchange format for web applications...",
+          "summary": "",
+          "body": "",
           "sections": [
             {
-              "heading": "Introduction to JSON",
-              "content": "JSON is a lightweight data interchange format that is easy for humans to read and write..."
+              "heading": "",
+              "content": ""
             },
             {
-              "heading": "JSON Structure Basics",
-              "content": "At its core, JSON consists of two structures: objects and arrays..."
+              "heading": "",
+              "content": ""
             },
             {
-              "heading": "Best Practices",
-              "content": "When working with JSON, it's important to follow these best practices..."
+              "heading": "",
+              "content": ""
             }
           ]
         },
-        "categories": ["Programming", "Web Development", "Data Formats"],
-        "tags": ["JSON", "API", "JavaScript", "Data Structures"],
-        "relatedArticles": ["2", "3"],
-        "seo": {
-          "metaTitle": "Understanding JSON Data Structures: A Developer's Guide",
-          "metaDescription": "Learn about JSON data structures, their uses and best practices in modern web development.",
-          "keywords": "JSON, data structures, web development, JavaScript, API"
-        },
-        "media": {
-          "featuredImage": {
-            "url": "https://raw.githubusercontent.com/Nadishan-Dev/chathura_nalanda/refs/heads/main/images/Article-1.jpg",
-            "alt": "JSON structure diagram",
-            "caption": "Visual representation of JSON structure"
-          }
-        }
+        "categories": [""],
+        "tags": [""],
+        "relatedArticles": ["2", "3"]
       },
       {
         "id": "2",
         "key": "article_02",
-        "title": "Mastering RESTful APIs",
-        "subtitle": "A Guide to Building Scalable APIs",
-        "slug": "mastering-restful-apis",
+        "title": "Nokia launches new logo to reflect change in direction",
+        "description": "",
         "author": {
-          "id": "auth002",
-          "name": "John Doe",
-          "email": "john.doe@example.com",
-          "bio": "API architect and backend engineer"
+          "id": "auth001",
+          "name": "Chathura Nalanda",
+          "email": "",
+          "bio": ""
         },
-        "publishedDate": "2025-03-16T10:00:00Z",
-        "updatedDate": "2025-03-18T12:00:00Z",
+        "publishedDate": "8th Mar 2023",
         "metadata": {
           "readTime": 10,
           "wordCount": 2200
         },
         "content": {
-          "summary": "This guide covers best practices and fundamental concepts for designing RESTful APIs.",
-          "body": "RESTful APIs are a critical part of modern web applications, providing scalable and efficient communication...",
+          "summary": "",
+          "body": "",
           "sections": [
             {
-              "heading": "Introduction to REST",
-              "content": "REST (Representational State Transfer) is an architectural style for designing networked applications..."
+              "heading": "",
+              "content": ""
             },
             {
-              "heading": "Designing RESTful Endpoints",
-              "content": "When designing RESTful APIs, it's essential to use clear and consistent endpoint structures..."
+              "heading": "",
+              "content": ""
             }
           ]
         },
-        "categories": ["API Development", "Web Development"],
-        "tags": ["REST", "API", "Backend", "Scalability"],
-        "relatedArticles": ["1", "3"],
-        "seo": {
-          "metaTitle": "Mastering RESTful APIs: Best Practices for Developers",
-          "metaDescription": "Learn how to design, implement, and optimize RESTful APIs for scalable applications.",
-          "keywords": "REST, API development, web services, backend"
-        },
-        "media": {
-          "featuredImage": {
-            "url": "https://raw.githubusercontent.com/Nadishan-Dev/chathura_nalanda/refs/heads/main/images/Article-2.jpg",
-            "alt": "RESTful API architecture",
-            "caption": "Overview of RESTful API architecture"
-          }
-        }
+        "categories": [""],
+        "tags": [""],
+        "relatedArticles": ["1", "3"]
       },
       {
         "id": "3",
         "key": "article_03",
-        "title": "GraphQL vs REST: Which One to Choose?",
-        "subtitle": "Understanding the Differences and Use Cases",
-        "slug": "graphql-vs-rest",
+        "title": "How Marketing Important in Your Business",
+        "description": "",
         "author": {
-          "id": "auth003",
-          "name": "Alice Johnson",
-          "email": "alice.johnson@example.com",
-          "bio": "Full-stack engineer specializing in API development"
+          "id": "auth001",
+          "name": "Chathura Nalanda",
+          "email": "",
+          "bio": ""
         },
-        "publishedDate": "2025-03-17T08:45:00Z",
-        "updatedDate": "2025-03-18T14:20:00Z",
+        "publishedDate": "8th Mar 2023",
         "metadata": {
           "readTime": 12,
           "wordCount": 2500
         },
         "content": {
-          "summary": "This article compares GraphQL and REST, discussing their strengths, weaknesses, and ideal use cases.",
-          "body": "GraphQL and REST are two popular approaches to API design, each with its own advantages...",
+          "summary": "",
+          "body": "",
           "sections": [
             {
-              "heading": "What is REST?",
-              "content": "REST is a stateless, client-server architecture used widely for web services..."
+              "heading": "",
+              "content": ""
             },
             {
-              "heading": "What is GraphQL?",
-              "content": "GraphQL is a query language for APIs that allows clients to request exactly the data they need..."
+              "heading": "",
+              "content": ""
             },
             {
-              "heading": "Key Differences",
-              "content": "GraphQL provides flexibility, while REST is simpler and more predictable..."
+              "heading": "",
+              "content": ""
             }
           ]
         },
-        "categories": ["API Development", "GraphQL", "Web Development"],
-        "tags": ["GraphQL", "REST", "API", "Web Services"],
-        "relatedArticles": ["1", "2"],
-        "seo": {
-          "metaTitle": "GraphQL vs REST: A Detailed Comparison for Developers",
-          "metaDescription": "Explore the key differences between GraphQL and REST, and decide which API architecture is best for your project.",
-          "keywords": "GraphQL, REST, API design, web development"
+        "categories": [""],
+        "tags": [""],
+        "relatedArticles": ["1", "2"]
+      },
+      {
+        "id": "4",
+        "key": "article_04",
+        "title": "What Is Brand Image? – Importance & Examples.",
+        "description": "",
+        "author": {
+          "id": "auth001",
+          "name": "Chathura Nalanda",
+          "email": "",
+          "bio": ""
         },
-        "media": {
-          "featuredImage": {
-            "url": "https://raw.githubusercontent.com/Nadishan-Dev/chathura_nalanda/refs/heads/main/images/Article-3.jpg",
-            "alt": "GraphQL vs REST comparison",
-            "caption": "GraphQL vs REST: Choosing the right API architecture"
-          }
-        }
+        "publishedDate": "12th Mar 2023",
+        "metadata": {
+          "readTime": 12,
+          "wordCount": 2500
+        },
+        "content": {
+          "summary": "",
+          "body": "",
+          "sections": [
+            {
+              "heading": "",
+              "content": ""
+            },
+            {
+              "heading": "",
+              "content": ""
+            },
+            {
+              "heading": "",
+              "content": ""
+            }
+          ]
+        },
+        "categories": [""],
+        "tags": [""],
+        "relatedArticles": ["1", "2"]
+      },
+      {
+        "id": "5",
+        "key": "article_05",
+        "title": "Email Marketing and Hotel Industry.",
+        "description": "",
+        "author": {
+          "id": "auth001",
+          "name": "Chathura Nalanda",
+          "email": "",
+          "bio": ""
+        },
+        "publishedDate": "20th Mar 2023",
+        "metadata": {
+          "readTime": 12,
+          "wordCount": 2500
+        },
+        "content": {
+          "summary": "",
+          "body": "",
+          "sections": [
+            {
+              "heading": "",
+              "content": ""
+            },
+            {
+              "heading": "",
+              "content": ""
+            },
+            {
+              "heading": "",
+              "content": ""
+            }
+          ]
+        },
+        "categories": [""],
+        "tags": [""],
+        "relatedArticles": ["1", "2"]
       }
     ]
   }
