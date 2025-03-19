@@ -59,6 +59,24 @@
           "Knowledge-sharing platform for students",
           "No cost – 100% free educational support"
         ]
+      },
+      {
+        "id": 5,
+        "key": "development",
+        "title": "WEB & APP DEVELOPMENT",
+        "fullDescription": "A well-crafted CV is your first step towards career success. At EduAds 2.0, we design professional, modern, and industry-specific CVs that highlight your skills, achievements, and qualifications effectively. Our CV designs are tailored to enhance your job prospects, ensuring you make a strong impression on recruiters.",
+        "price": "LKR 1000/per hour",
+        "image": "https://raw.githubusercontent.com/Nadishan-Dev/chathura_nalanda/refs/heads/main/images/coding.jpg",
+        "features": [
+          "Free Hosting (depending on the project)",
+          "Fully Responsive UI/UX",
+          "SEO-Friendly Website",
+          "Custom Web Design",
+          "Custom AI Models",
+          "Custom Backend Development",
+          "Android App (if you need)",
+          "E-commerce Websites"
+        ]
       }
     ]
   }
