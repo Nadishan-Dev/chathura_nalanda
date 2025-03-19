@@ -3,65 +3,61 @@
       {
         "id": 1,
         "key": "assignments_helper",
-        "title": "Assignment Helper",
-        "shortDescription": "Expert assistance with academic assignments and research papers",
-        "fullDescription": "Get professional help with your academic assignments from our team of experienced tutors and subject matter experts. We provide guidance, resources, and support to help you achieve better grades and understand complex topics.",
-        "price": "LKR 1999/hour",
+        "title": "Assignments Helper",
+        "fullDescription": "Struggling with assignments? Our expert writing and research services cater to undergraduate, graduate, and professional-level requirements. We deliver plagiarism-free, well-researched, and structured assignments tailored to university guidelines and specific subject requirements. Whether it’s a report, case study, or research paper, we ensure high-quality content with on-time delivery.",
+        "price": "LKR 1.50 – 2.50 per word",
         "image": "https://raw.githubusercontent.com/Nadishan-Dev/neuro_images/refs/heads/main/team.jpeg",
         "features": [
-          "Subject expert consultation",
-          "Research assistance",
-          "Proofreading and editing",
-          "Formatting and citation help",
-          "Plagiarism checking"
+          "Plagiarism-free, well-researched content",
+          "Tailored to university guidelines and subject requirements",
+          "Covers essays, case studies, reports, and research papers",
+          "Assistance for undergraduates, postgraduates, and professionals",
+          "Timely delivery with revisions available"
         ]
       },
       {
         "id": 2,
         "key": "professional_cv_design",
         "title": "Professional CV Design",
-        "shortDescription": "Professional CV design services tailored for students and professionals",
-        "fullDescription": "Our CV design service helps you stand out to potential employers. We create clean, modern, and ATS-friendly CVs that highlight your skills and experience effectively. Each CV is customized to match your career goals and industry standards.",
-        "price": "LKR 3999",
+        "fullDescription": "A well-crafted CV is your first step towards career success. At EduAds 2.0, we design professional, modern, and industry-specific CVs that highlight your skills, achievements, and qualifications effectively. Our CV designs are tailored to enhance your job prospects, ensuring you make a strong impression on recruiters.",
+        "price": "LKR 800 – 1200, Negotiable",
         "image": "https://raw.githubusercontent.com/Nadishan-Dev/neuro_images/refs/heads/main/team.jpeg",
         "features": [
-          "ATS-friendly format",
-          "Modern design templates",
-          "Professional layout",
-          "Keyword optimization",
-          "2 revisions included"
+          " ATS-friendly and modern design",
+          "Customized layout based on industry standards",
+          "Highlights key skills and achievements",
+          "Editable and reusable formats",
+          "Quick turnaround time"
         ]
       },
       {
         "id": 3,
-        "key": "fb_cover_page_create",
-        "title": "FB Cover Page Create",
-        "shortDescription": "Captivating social media designs that enhance your brand's digital presence.",
-        "fullDescription": "Get professional help with your academic assignments from our team of experienced tutors and subject matter experts. We provide guidance, resources, and support to help you achieve better grades and understand complex topics.",
-        "price": "LKR 1999/hour",
+        "key": "research_data_analysis",
+        "title": "Research Data Analysis (Specialized in IBM SPSS)",
+        "fullDescription": "Analyzing research data can be complex, but we make it simple! Our IBM SPSS-based data analysis service provides detailed insights, accurate statistical reports, and in-depth explanations. Whether you need help with data interpretation, hypothesis testing, or graphical representation, we offer clear and understandable explanations to ensure you fully grasp your research findings.",
+        "price": "LKR 4500+ per report",
         "image": "https://raw.githubusercontent.com/Nadishan-Dev/neuro_images/refs/heads/main/team.jpeg",
         "features": [
-          "Subject expert consultation",
-          "Research assistance",
-          "Proofreading and editing",
-          "Formatting and citation help",
-          "Plagiarism checking"
+          "In-depth statistical analysis (Regression, ANOVA, Correlation, etc.)",
+          "Clear and structured reports with interpretations",
+          "Graphical representation of data",
+          "Expert guidance on findings and application",
+          "Free explanation session for better understanding"
         ]
       },
       {
         "id": 4,
-        "key": "a/l_student_support",
-        "title": "A/L Student Support",
-        "shortDescription": "One-on-one mentoring sessions for academic and career guidance",
-        "fullDescription": "Our mentoring program connects you with experienced professionals who can guide you through your academic journey and early career decisions. Regular sessions help build your confidence, improve your skills, and plan your academic and professional path.",
-        "price": "LKR 2999/session",
+        "key": "student_support",
+        "title": "Student Support – Free Services",
+        "fullDescription": "At EduAds 2.0, we believe in giving back to the student community. Our Student Support Services offer free A/L Commerce notes, academic mentoring, and guidance to help students excel in their studies. We also provide free FB cover page designs to help students build a professional online presence.",
+        "price": "Free",
         "image": "https://raw.githubusercontent.com/Nadishan-Dev/neuro_images/refs/heads/main/team.jpeg",
         "features": [
-          "Weekly 1-hour sessions",
-          "Personalized development plan",
-          "Study strategy guidance",
-          "Career path planning",
-          "Interview preparation"
+          "High-quality A/L Commerce notes",
+          "Academic mentoring and study guidance",
+          "FB cover page design for personal branding",
+          "Knowledge-sharing platform for students",
+          "No cost – 100% free educational support"
         ]
       }
     ]
