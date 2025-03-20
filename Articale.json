@@ -15,31 +15,35 @@
       },
       "publishedDate": "7th Mar 2023",
       "metadata": {
-        "readTime": 8,
-        "wordCount": 1850
+        "readTime": "4 minutes",
+        "wordCount": "386 words"
       },
       "content": {
         "summary": "This article explores four proven digital marketing strategies to increase inbound calls.",
-        "body": "<p>Digital marketing is essential for businesses today.</p>",
+        "body": "<p>In today’s competitive digital landscape, businesses need to adopt effective marketing strategies to stay ahead. Increasing inbound calls is a crucial aspect of driving sales and customer engagement. This article will cover four key digital marketing strategies that can help boost your inbound call volume and enhance your business’s success.</p>",
         "sections": [
           {
-            "heading": "SEO Optimization",
-            "content": "<p>Search engine optimization is key. <b>Keyword research</b> helps target the right audience.</p>"
+            "heading": "1. Optimizing for Search Engine Visibility (SEO)",
+            "content1": "<p>Search Engine Optimization (SEO) is the backbone of digital marketing. By optimizing your website for search engines, you ensure that your business ranks high for the keywords that matter most. The higher your business ranks, the more visibility it gets, leading to an increase in inbound calls from interested customers. Additionally, local SEO ensures that your business appears in search results when people search for services in your area, making it easy for them to find your contact details and call you directly.</p>"
           },
           {
-            "heading": "PPC Campaigns",
-            "content": "<p>Pay-per-click ads drive instant traffic. <b>Ad targeting</b> ensures quality leads.</p>"
+            "heading": "2. Harnessing the Power of Paid Search (PPC)",
+            "content1": "<p>Pay-Per-Click (PPC) advertising allows businesses to target potential customers based on specific keywords and demographics. By running well-targeted ads, you can drive highly relevant traffic to your website, which increases the likelihood of receiving inbound calls. One of the most effective ways to encourage calls through PPC is by using call extensions in Google Ads, which lets users directly call your business without having to navigate through your website. This instant connection can greatly boost your inbound call volume.</p>"
           },
           {
-            "heading": "Social Media",
-            "content": "<p>Engage users on platforms like X. <b>Consistency</b> builds trust.</p>"
+            "heading": "3. Leveraging Social Media for Direct Engagement",
+            "content1": "<p>Social media marketing isn’t just about posting updates—it’s a powerful tool for engaging directly with your audience. Platforms like Facebook, Instagram, and LinkedIn allow businesses to run ads targeting users who are most likely to be interested in their products or services. By utilizing call-to-action buttons like ‘Call Now’ on Facebook and Instagram, businesses can prompt users to call them directly from the social media platform. Additionally, consistent social media engagement helps build trust and encourages customers to reach out with inquiries, leading to more inbound calls.</p>"
+          },
+          {
+            "heading": "4. Content Marketing That Drives Inquiries",
+            "content1": "<p>Creating valuable content is a powerful way to attract and engage potential customers. Through blog posts, videos, and webinars, businesses can educate their audience, answer common questions, and provide solutions to problems. By offering this kind of helpful content, businesses position themselves as experts, making it more likely that customers will trust them enough to pick up the phone and inquire further. Be sure to include prominent contact information and call-to-action prompts on these content pages to make it as easy as possible for visitors to call you.</p>"
           }
         ]
       },
       "categories": ["Digital Marketing"],
-      "tags": ["digital marketing", "inbound calls", "SEO"],
+      "tags": ["SEO", "PPC", "Social Media Marketing", "Content Marketing"],
       "relatedArticles": ["2", "3"]
-    },
+    },    
     {
       "id": "2",
       "key": "article_02",
@@ -55,25 +59,23 @@
       },
       "publishedDate": "8th Mar 2023",
       "metadata": {
-        "readTime": 10,
-        "wordCount": 2200
+        "readTime": "1 minute",
+        "wordCount": "127 words"
       },
       "content": {
-        "summary": "Nokia’s new logo signifies a strategic shift in its business focus.",
-        "body": "<p>Branding evolves with company vision.</p>",
+        "summary": "🌐 Nokia launches new logo to reflect change in direction",
+        "body": "",
         "sections": [
           {
-            "heading": "Logo Redesign",
-            "content": "<p>The new logo is modern and sleek. <b>Innovation</b> is at its core.</p>"
-          },
-          {
-            "heading": "Market Impact",
-            "content": "<p>Rebranding affects perception. <b>Customer trust</b> is key.</p>"
+            "heading": "",
+            "content1": "The new identity aims to simplify the logo to create a more dynamic approach to the brand, and to signify a shift in strategy and focus For the first time in 60 years, Nokia has launched a new brand identity including an updated logo. The change is to help shift perceptions of Nokia from a mobile phone company – which is how it is still seen by many – to a B2B innovation and tech company.",
+            "content2": "Revealed at the Mobile World Congress Barcelona, the new logo has waved goodbye to the classic Nokia typeface and replaced it with a more geometric and abstract approach. This simplification aims to strike “the right degree of visual evolution so the iconic logo is still instantly recognisable”. But the result is that the individual letters of Nokia have been stripped and chopped so much it’s more a distant echo of the previous logo.",
+            "content3": "Lippincott, who has worked on the rebrand, and collaborated with Nokia for the last 15 years, says this has been done so that the letters of the logo “only read as ‘Nokia’ when they [appear] together”. Beyond this, the logo’s N, O and K letterforms have been repurposed as bold graphics to use across all content, so every communication from the brand is “distinctively Nokia”."
           }
         ]
       },
       "categories": ["Marketing"],
-      "tags": ["branding", "Nokia", "logo design"],
+      "tags": ["#innovation", "#strategy", "#Brand #marketingmind #Eduads 2.0"],
       "relatedArticles": ["1", "3"]
     },
     {
@@ -91,36 +93,55 @@
       },
       "publishedDate": "8th Mar 2023",
       "metadata": {
-        "readTime": 12,
-        "wordCount": 2500
+        "readTime": "2 minutes and 30 seconds",
+        "wordCount": "501 words"
       },
       "content": {
         "summary": "Marketing drives growth and visibility for businesses.",
-        "body": "<p>No business thrives without marketing.</p>",
+        "body": "Marketing is a strategy that businesses use to advertise their businesses. Every business entity needs to understand such a strategy and how to employ it. Business sectors have been using marketing strategies. They even hire people knowledgeable in marketing to help them sell their products. On that note, how important is marketing in business?",
         "sections": [
           {
-            "heading": "Brand Awareness",
-            "content": "<p>Reach new audiences effectively. <b>Visibility</b> matters.</p>"
+            "heading": "🐞MARKETING AND ITS IMPORTANCE TO BUSINESS",
+            "content1": "There are many important things marketing can do for different business sectors. That is why many business establishments adopt many marketing strategies. Give yourself time to know the importance of marketing to your business."
           },
           {
-            "heading": "Customer Engagement",
-            "content": "<p>Build lasting relationships. <b>Loyalty</b> boosts revenue.</p>"
+            "heading": "1. Marketing helps to boost sales.",
+            "content1": "Marketing is one way to give information to consumers. This way, consumers will have a basic idea of what is your product all about. They will also know the benefits of buying your products. Marketing educates many people about a certain product. When people are well-informed about your product, your sales will increase."
           },
           {
-            "heading": "Sales Growth",
-            "content": "<p>Marketing fuels sales. <b>Strategy</b> is everything.</p>"
+            "heading": "2. Marketing creates revenue options",
+            "content1": "Marketing is a great help for many business establishments to create revenue options. It is when business sectors use different marketing strategies to increase business profits. One way to increase the profit is to reduce the product costs. This way many customers will buy the product."
+          },
+          {
+            "heading": "3. Reducing product costs will increase the number of potential buyers.",
+            "content1": "Those getting more sales. It is better to gain smaller profits but consistent sales.Another way to increase revenue is to run media advertisements and promotions. It is the easiest way to make people know about your products.Set better goals for your business",
+            "content2": "The success of a business depends on its goals and objectives. Marketing can help a business set its goals. By practicing some marketing strategies it will lead to the popularity of their brand. By this, it will motivate the company to maintain its reputation. They will now set clear goals and objectives for their employees to know their targets. These goals will also reach their consumers."
+          },
+          {
+            "heading": "4. Build a Reputation for your Brand",
+            "content1": "Another benefit of implementing marketing strategies is to build a reputation for your brand. But it is essential to ensure you are giving outstanding quality and useful products to your target market. This way, you won’t only build an excellent reputation for your product, but also your brand."
+          },
+          {
+            "heading": "5. Improves Decision-Making",
+            "content1": "When a company hires a market specialist, it will do everything to boost the sales of your products by making appropriate marketing actions. The first thing to consider in doing these activities is knowing your audience. When the company has known fully their audience, this will help them decide what lines and details they will create in convincing people to buy their products."
+          },
+          {
+            "heading": "🐞How do Marketing Strategies Lead to Success?",
+            "content1": "Every successful business has a story of its marketing strategies. It is the marketing strategies that boost the success of the business. Marketing strategies may include promotions and advertising. It also deals with media relations. Marketing can promote a certain brand, product, and people.",
+            "content2": "Even though you provide quality goods and services, it can be useless when people do not know about it. One of the marketing strategies is by giving information to consumers. When people are fully aware of your product, it will help in increasing sales. Thus, it means success to the business.",
+            "content3": "Also, another benefit of marketing strategy is by building a good image for the company. When the company has maintained its reputation and pleasant image to the public, consumers’ trust will increase. This can lead to some companies or individuals investing in them."
           }
         ]
       },
       "categories": ["Marketing"],
-      "tags": ["business", "marketing", "growth"],
+      "tags": ["#Eduads 2.0", "#sharepost", "#Marketingmind"],
       "relatedArticles": ["1", "2"]
     },
     {
       "id": "4",
       "key": "article_04",
       "title": "What Is Brand Image? – Importance & Examples",
-      "description": "Understand the concept of brand image and its significance.",
+      "description": "Customers’ perceptions of a brand are called its brand image. It can be defined as the way that customers think about the brand.",
       "image": "https://raw.githubusercontent.com/Nadishan-Dev/chathura_nalanda/refs/heads/main/images/Article-4.png",
       "horizntalimage": "https://raw.githubusercontent.com/Nadishan-Dev/chathura_nalanda/refs/heads/main/images/004.jpg",
       "author": {
@@ -131,29 +152,39 @@
       },
       "publishedDate": "12th Mar 2023",
       "metadata": {
-        "readTime": 12,
-        "wordCount": 2500
+        "readTime": "1 minute and 5 seconds",
+        "wordCount": "216 words"
       },
       "content": {
         "summary": "Brand image shapes how customers perceive your business.",
-        "body": "<p>A strong brand image is invaluable.</p>",
+        "body": "<p>This image evolves with time. According to their interactions and experiences with the brand, customers make an opinion about it. These interactions can take many different forms and are not always connected to the use or buying of products or services.</p>",
         "sections": [
           {
-            "heading": "Definition",
-            "content": "<p>Brand image is perception. <b>Consistency</b> defines it.</p>"
+            "heading": "What Is Brand Image?",
+            "content1": "Brand image is how a customer views a thing or service. It is the aggregate of a customer’s perceptions, beliefs, and impressions of the brand. <br>The customers’ view of the brand based on their interactions and experiences with the brand or their assumptions about what the brand could be is a clear definition of brand image.</br> <br>Different customers may have multiple perceptions of the same brand. Thus, any company face a serious challenge in developing an enduring brand image.</br>"
           },
           {
-            "heading": "Importance",
-            "content": "<p>It builds trust. <b>Reputation</b> drives success.</p>"
+            "heading": "Importance Of Brand Image",
+            "content1": "Every company wants to establish a solid image since it helps their organizational goal. The following benefits of having a good brand image:",
+            "content2": "1. more earnings as more people get familiar with the brand.",
+            "content3": "2. New items under the same brand are simple to introduce..",
+            "content4": "3. increases the trust of existing customers. help in maintaining them.",
+            "content5": "4. Improved customer-business relationships.",
+            "content6": "5. A company with a poor reputation might find it difficult to maintain and might not be able to launch an innovative product under the same brand."
           },
           {
-            "heading": "Examples",
-            "content": "<p>Apple and Nike excel. <b>Uniqueness</b> stands out.</p>"
+            "heading": "Examples Of Brand Image",
+            "content1": "<li><b>Coca-Cola</b> is a brand known for a product best used at the time of happiness, joy, and good experience. It is the ‘original cola’ and has a ‘unique taste’.</li>",
+            "content2": "<li><b>Woodland Shoes</b> are solid and are an ideal choice for outdoors. They last very long.</li>",
+            "content3": "<li><b>McDonald’s</b> has an image of an inexpensive brand that serves the food very quickly.</li>",
+            "content4": "<li><b>Walmart</b> is best known for a retail brand selling goods for a lesser price than usual retailers.</li>",
+            "content5": "<li><b>Rolls-Royce</b> is a premium brand considered to be exclusive for wealthy and influential people.</li>",
+            "content6": "<li>The brand image of <b>Nike</b> is different from other apparel brands. It’s considered to be a cult brand which deals only in sportswear.</li>"
           }
         ]
       },
       "categories": ["Marketing"],
-      "tags": ["brand image", "marketing", "examples"],
+      "tags": ["#Brandimage", "#DigitalMARKETING", "#marketingmind", "#Sharepost", "#Eduads2.0"],
       "relatedArticles": ["1", "2"]
     },
     {
@@ -171,8 +202,8 @@
       },
       "publishedDate": "20th Mar 2023",
       "metadata": {
-        "readTime": 12,
-        "wordCount": 2500
+        "readTime": "1 minute and 20 seconds",
+        "wordCount": "273 words"
       },
       "content": {
         "summary": "Email marketing enhances hotel bookings and guest engagement.",
