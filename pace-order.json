@@ -65,6 +65,7 @@
         "id": 5,
         "key": "development",
         "title": "WEB & APP DEVELOPMENT",
+        "specialurl": "true",
         "fullDescription": "A well-crafted CV is your first step towards career success. At EduAds 2.0, we design professional, modern, and industry-specific CVs that highlight your skills, achievements, and qualifications effectively. Our CV designs are tailored to enhance your job prospects, ensuring you make a strong impression on recruiters.",
         "price": "LKR 1800/per day",
         "image": "https://raw.githubusercontent.com/Nadishan-Dev/chathura_nalanda/refs/heads/main/images/coding.jpg",
